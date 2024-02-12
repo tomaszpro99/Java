@@ -1,0 +1,25 @@
+Oto definicje różnych warstw i komponentów systemów informatycznych:
+
+Java Backend - warstwa aplikacji odpowiedzialna za logikę biznesową i przetwarzanie danych. 
+W przypadku aplikacji webowych często wykorzystywane są frameworki takie jak Spring lub Hibernate.
+
+Java Frontend - warstwa aplikacji odpowiedzialna za interakcję z użytkownikiem i prezentację danych. 
+W przypadku aplikacji webowych często wykorzystywane są frameworki takie jak React, Angular lub Vue.js.
+
+Middleware - warstwa oprogramowania, która działa między aplikacjami lub pomiędzy aplikacjami 
+a systemami operacyjnymi, zapewniając interakcje między nimi. W przypadku systemów rozproszonych 
+często wykorzystywane są narzędzia takie jak Apache Kafka lub RabbitMQ.
+
+Baza danych / Database - komponent systemu informatycznego odpowiedzialny za przechowywanie danych. 
+W przypadku aplikacji webowych często wykorzystywane są bazy danych takie jak MySQL lub PostgreSQL.
+
+Infrastruktura / Infrastructure - całość elementów technicznych i organizacyjnych, 
+które są potrzebne do działania aplikacji. W skład infrastruktury mogą wchodzić serwery, 
+sieci, urządzenia sieciowe, narzędzia do monitorowania czy narzędzia do automatyzacji procesów.
+
+Security - warstwa odpowiedzialna za zabezpieczenia systemu informatycznego przed atakami i zagrożeniami.
+W skład tej warstwy mogą wchodzić narzędzia takie jak firewall, systemy wykrywania intruzów (IDS) czy systemy kontroli dostępu (ACS).
+
+DevOps - praktyka łącząca rozwój (development) i działanie (operations) systemów informatycznych, 
+skupiona na automatyzacji procesów wytwarzania i wdrażania oprogramowania. 
+W skład tej warstwy mogą wchodzić narzędzia takie jak Docker czy Kubernetes.

@@ -1,0 +1,3 @@
+1234
+asd
+stala: [50] zmiennoprzecinkowa: [50,010] string: [hej]
